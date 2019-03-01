@@ -9,7 +9,7 @@ import requests
 
 class Douban(object):
     def __init__(self):
-        self.base_url = 'https://book.douban.com/'
+        self.base_url = 'https://book.douban.com/top250?icn=index-book250-all'
         self.headers = {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
             'Accept-Encoding': 'gzip, deflate, br',
