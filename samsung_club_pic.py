@@ -24,9 +24,9 @@ class SamsungClub():
         return page_url_list
 
     @staticmethod
-    def get_img_url(response):
+    def get_img_list(response):
         sel = html.fromstring(response.content)
-        img_url_list = sel.xpath("//img[@class='ueditor_img']/@src")
+        img_url_list = sel.xpath('//*[@id="container"]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div/img/@src')
         return img_url_list
 
     @staticmethod
@@ -39,24 +39,31 @@ class SamsungClub():
     def main(self):
         homepage_url = 'http://www.galaxyclub.cn/photo'
         response = self.send_request(homepage_url)
-        page_url_list = SamsungClub.get_img_page(response)
+        page_url_list = self.get_img_page(response)
         print('get page')
         for page in page_url_list:
             url = 'http://www.galaxyclub.cn' + page
             print('url: ' + url)
             response = self.send_request(url)
-            img_url_list = SamsungClub.get_img_url(response)
-            print('img_url_list')
+            img_url_list = self.get_img_list(response)
+            print(img_url_list)
             for img in img_url_list:
                 print('进来了')
                 filename = img[-10:]
                 print(filename)
                 response = self.send_request(img)
-                SamsungClub.save_img(response, filename)
+                self.save_img(response, filename)
                 print('save')
 
 
 
 
 homepage = SamsungClub()
-homepage.main()
+# homepage.main()
+r = homepage.send_request('http://www.galaxyclub.cn/thread-704366-31-285.html')
+print(r.content)
+img_list = homepage.get_img_list(r)
+print(img_list)
+
+
+
