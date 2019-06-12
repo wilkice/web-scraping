@@ -1,0 +1,1252 @@
+[
+  {
+    "title": "追风筝的人",
+    "rating": "8.9",
+    "sentense": "为你，千千万万遍"
+  },
+  {
+    "title": "解忧杂货店",
+    "rating": "8.5",
+    "sentense": "一碗精心熬制的东野牌鸡汤，拒绝很难"
+  },
+  {
+    "title": "小王子",
+    "rating": "9.0",
+    "sentense": "献给长成了大人的孩子们"
+  },
+  {
+    "title": "白夜行",
+    "rating": "9.1",
+    "sentense": "暗夜独行的残破灵魂，爱与恶本就难分难舍"
+  },
+  {
+    "title": "围城",
+    "rating": "8.9",
+    "sentense": "对于“人艰不拆”四个字最彻底的违抗"
+  },
+  {
+    "title": "三体",
+    "rating": "8.8",
+    "sentense": "你我不过都是虫子"
+  },
+  {
+    "title": "嫌疑人X的献身",
+    "rating": "8.9",
+    "sentense": "数学好是一种极致的浪漫"
+  },
+  {
+    "title": "活着",
+    "rating": "9.3",
+    "sentense": "生的苦难与伟大"
+  },
+  {
+    "title": "挪威的森林",
+    "rating": "8.0",
+    "sentense": "村上之发轫，多少人的青春启蒙"
+  },
+  {
+    "title": "百年孤独",
+    "rating": "9.2",
+    "sentense": "尼采所谓的永劫复归，一场无始无终的梦魇"
+  },
+  {
+    "title": "红楼梦",
+    "rating": "9.6",
+    "sentense": "谁解其中味？"
+  },
+  {
+    "title": "看见",
+    "rating": "8.8",
+    "sentense": "在这里看见中国"
+  },
+  {
+    "title": "平凡的世界（全三部）",
+    "rating": "9.0",
+    "sentense": "中国当代城乡生活全景"
+  },
+  {
+    "title": "三体Ⅱ",
+    "rating": "9.3",
+    "sentense": "无边的黑暗森林，比第一部更为恢弘壮丽"
+  },
+  {
+    "title": "三体Ⅲ",
+    "rating": "9.2",
+    "sentense": "终章，何去何从"
+  },
+  {
+    "title": "不能承受的生命之轻",
+    "rating": "8.5",
+    "sentense": "朝向媚俗的一次伟大的进军"
+  },
+  {
+    "title": "达·芬奇密码",
+    "rating": "8.2",
+    "sentense": "一切畅销的因素都有了"
+  },
+  {
+    "title": "我们仨",
+    "rating": "8.7",
+    "sentense": "平淡，坚忍，温情"
+  },
+  {
+    "title": "天才在左 疯子在右",
+    "rating": "8.1",
+    "sentense": "简称“疯癫与文明”"
+  },
+  {
+    "title": "简爱（英文全本）",
+    "rating": "8.5",
+    "sentense": "灰姑娘在十九世纪"
+  },
+  {
+    "title": "哈利·波特与魔法石",
+    "rating": "9.1",
+    "sentense": "羽加迪姆勒维奥萨！"
+  },
+  {
+    "title": "明朝那些事儿（壹）",
+    "rating": "8.7",
+    "sentense": "历史本就是一件件“事儿”拼成的"
+  },
+  {
+    "title": "傲慢与偏见",
+    "rating": "8.8",
+    "sentense": "所有现代言情小说的母体"
+  },
+  {
+    "title": "目送",
+    "rating": "8.7",
+    "sentense": "不必追"
+  },
+  {
+    "title": "恶意",
+    "rating": "8.4",
+    "sentense": "无缘由的恨，冰冷彻骨"
+  },
+  {
+    "title": "撒哈拉的故事",
+    "rating": "9.0",
+    "sentense": "关于漂泊的一切"
+  },
+  {
+    "title": "许三观卖血记",
+    "rating": "8.7",
+    "sentense": "余华的悲凉，都在那一碗炒猪肝里了"
+  },
+  {
+    "title": "霍乱时期的爱情",
+    "rating": "9.0",
+    "sentense": "义无反顾地直达爱情的核心"
+  },
+  {
+    "title": "飘",
+    "rating": "9.3",
+    "sentense": "革命时期的爱情，随风而逝"
+  },
+  {
+    "title": "边城",
+    "rating": "8.6",
+    "sentense": "如水一般的忧愁与怅惘"
+  },
+  {
+    "title": "倾城之恋",
+    "rating": "8.5",
+    "sentense": "一段姻缘，需要一座城的倾覆来成全"
+  },
+  {
+    "title": "送你一颗子弹",
+    "rating": "8.6",
+    "sentense": "犀利又温柔，穿过胸口隐隐作痛"
+  },
+  {
+    "title": "狼图腾",
+    "rating": "8.2",
+    "sentense": "我们都是 狼的传人？"
+  },
+  {
+    "title": "哈利·波特与阿兹卡班的囚徒",
+    "rating": "9.0",
+    "sentense": "小天狼星布莱克"
+  },
+  {
+    "title": "盗墓笔记",
+    "rating": "8.3",
+    "sentense": "想象奇诡的大型RPG游戏"
+  },
+  {
+    "title": "人间失格",
+    "rating": "8.3",
+    "sentense": "令人无从怜悯的绝望"
+  },
+  {
+    "title": "哈利·波特与火焰杯",
+    "rating": "9.0",
+    "sentense": "整个系列的分水岭，暗色渐浓"
+  },
+  {
+    "title": "情人",
+    "rating": "8.1",
+    "sentense": "我已经老了，你呢？"
+  },
+  {
+    "title": "哈利·波特与密室",
+    "rating": "8.9",
+    "sentense": "渐入佳境，魔法世界全貌初现"
+  },
+  {
+    "title": "万历十五年",
+    "rating": "8.9",
+    "sentense": "见微知著，历史观的颠覆"
+  },
+  {
+    "title": "穆斯林的葬礼",
+    "rating": "8.1",
+    "sentense": "时代烙印鲜明的民族史诗"
+  },
+  {
+    "title": "窗边的小豆豆",
+    "rating": "8.7",
+    "sentense": "真正懂孩子的教育经"
+  },
+  {
+    "title": "老人与海",
+    "rating": "8.4",
+    "sentense": "正是悲壮赋予生活以意义"
+  },
+  {
+    "title": "1984",
+    "rating": "9.3",
+    "sentense": "栗树荫下，我出卖你，你出卖我"
+  },
+  {
+    "title": "黄金时代",
+    "rating": "8.8",
+    "sentense": "能把性爱写得如此坦荡的，大概只有王二了"
+  },
+  {
+    "title": "1Q84 BOOK 1",
+    "rating": "8.3",
+    "sentense": "村上的野望，欢迎来到1Q84年"
+  },
+  {
+    "title": "哈利·波特与混血王子",
+    "rating": "8.8",
+    "sentense": "感情线纷乱的一部。再见邓布利多"
+  },
+  {
+    "title": "人类简史",
+    "rating": "9.1",
+    "sentense": "跟着人类一同走过十万年"
+  },
+  {
+    "title": "三国演义（全二册）",
+    "rating": "9.2",
+    "sentense": "是非成败转头空"
+  },
+  {
+    "title": "房思琪的初恋乐园",
+    "rating": "9.2",
+    "sentense": "以血书写的文学"
+  },
+  {
+    "title": "向左走·向右走",
+    "rating": "8.4",
+    "sentense": "两条平行线相遇的可能"
+  },
+  {
+    "title": "哈利·波特与凤凰社",
+    "rating": "8.7",
+    "sentense": "暴脾气的哈利"
+  },
+  {
+    "title": "悟空传",
+    "rating": "8.3",
+    "sentense": "猴子还是那个猴子，世界早已不是原来的世界"
+  },
+  {
+    "title": "牧羊少年奇幻之旅",
+    "rating": "8.6",
+    "sentense": "你自己就是最大的宝藏"
+  },
+  {
+    "title": "鲁滨逊漂流记",
+    "rating": "8.0",
+    "sentense": "最早的荒野求生"
+  },
+  {
+    "title": "苏菲的世界",
+    "rating": "8.5",
+    "sentense": "最平易近人的哲学入门"
+  },
+  {
+    "title": "哈利·波特与死亡圣器",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "天龙八部",
+    "rating": "9.1",
+    "sentense": "“有情皆孽，无人不冤”"
+  },
+  {
+    "title": "无声告白",
+    "rating": "8.2",
+    "sentense": "莉迪亚死了，可他们还不知道"
+  },
+  {
+    "title": "莲花",
+    "rating": "8.0",
+    "sentense": "三个生命的交逢，灵魅清冷"
+  },
+  {
+    "title": "骆驼祥子",
+    "rating": "8.3",
+    "sentense": "如骆驼喘息般深刻的绝望"
+  },
+  {
+    "title": "呼啸山庄",
+    "rating": "8.4",
+    "sentense": "近乎暴虐的爱与恨，中文译名后无来者"
+  },
+  {
+    "title": "基督山伯爵",
+    "rating": "9.0",
+    "sentense": "完美的复仇，金庸用法语写作应该就是这样"
+  },
+  {
+    "title": "亲爱的安德烈",
+    "rating": "8.7",
+    "sentense": "龙应台母子对话，两代人的思想碰撞"
+  },
+  {
+    "title": "白鹿原",
+    "rating": "8.7",
+    "sentense": "中国乡村史诗"
+  },
+  {
+    "title": "局外人",
+    "rating": "9.0",
+    "sentense": "人生在世，永远也不该演戏作假"
+  },
+  {
+    "title": "灿烂千阳",
+    "rating": "8.8",
+    "sentense": "唯有希望与爱可以驱散阴霾"
+  },
+  {
+    "title": "茶花女",
+    "rating": "8.2",
+    "sentense": "妓女应当拥有爱情吗？"
+  },
+  {
+    "title": "一个陌生女人的来信",
+    "rating": "8.7",
+    "sentense": "暗恋的极致"
+  },
+  {
+    "title": "海边的卡夫卡",
+    "rating": "8.1",
+    "sentense": "背负诅咒的少年，平行世界中的奥德赛"
+  },
+  {
+    "title": "笑傲江湖（全四册）",
+    "rating": "9.0",
+    "sentense": "武侠的壳，政治斗争的核"
+  },
+  {
+    "title": "沉默的大多数",
+    "rating": "9.1",
+    "sentense": "沉默是沉默者的通行证"
+  },
+  {
+    "title": "福尔摩斯探案全集（上中下）",
+    "rating": "9.2",
+    "sentense": "侦探小说鼻祖"
+  },
+  {
+    "title": "兄弟（上）",
+    "rating": "8.3",
+    "sentense": "历史苦难中的个人灾变"
+  },
+  {
+    "title": "了不起的盖茨比",
+    "rating": "8.3",
+    "sentense": "梦，就像黛西家的那一缕绿光"
+  },
+  {
+    "title": "少有人走的路",
+    "rating": "8.4",
+    "sentense": "成熟的心智通向更完善的自我"
+  },
+  {
+    "title": "东方快车谋杀案",
+    "rating": "9.0",
+    "sentense": "谋杀诡计惊人，波洛的抉择耐人寻味"
+  },
+  {
+    "title": "月亮与六便士",
+    "rating": "8.8",
+    "sentense": "满地都是六便士，他却抬头看见了月亮"
+  },
+  {
+    "title": "情书",
+    "rating": "8.6",
+    "sentense": "一场误会中的两段爱情，东方式的含蓄隐忍"
+  },
+  {
+    "title": "无人生还",
+    "rating": "8.9",
+    "sentense": "童谣杀人案"
+  },
+  {
+    "title": "巴黎圣母院",
+    "rating": "8.3",
+    "sentense": "潜藏于残缺下的美与崇高"
+  },
+  {
+    "title": "神雕侠侣",
+    "rating": "8.9",
+    "sentense": "至情至性，情大于武"
+  },
+  {
+    "title": "肖申克的救赎",
+    "rating": "9.1",
+    "sentense": "希望让人自由，电影实在太有名"
+  },
+  {
+    "title": "羊脂球",
+    "rating": "8.1",
+    "sentense": "资产阶级的道貌岸然"
+  },
+  {
+    "title": "民主的细节",
+    "rating": "8.6",
+    "sentense": "公民养成手册"
+  },
+  {
+    "title": "呐喊",
+    "rating": "8.9",
+    "sentense": "新文学的第一声呐喊"
+  },
+  {
+    "title": "乌合之众",
+    "rating": "8.2",
+    "sentense": "群氓心理剖析"
+  },
+  {
+    "title": "动物农场",
+    "rating": "9.2",
+    "sentense": "太阳底下并无新事"
+  },
+  {
+    "title": "遇见未知的自己",
+    "rating": "8.0",
+    "sentense": "都市灵修速成"
+  },
+  {
+    "title": "爱你就像爱生命",
+    "rating": "8.8",
+    "sentense": "王小波与李银河的两地书"
+  },
+  {
+    "title": "当我谈跑步时我谈些什么",
+    "rating": "8.2",
+    "sentense": "村上同志告诉我们，身体是革命的本钱"
+  },
+  {
+    "title": "安徒生童话故事集",
+    "rating": "9.2",
+    "sentense": "远不是童话那么简单"
+  },
+  {
+    "title": "红玫瑰与白玫瑰",
+    "rating": "8.4",
+    "sentense": "蚊子血还是饭黏子？"
+  },
+  {
+    "title": "城南旧事",
+    "rating": "9.0",
+    "sentense": "长亭外，古道边，芳草碧连天"
+  },
+  {
+    "title": "巨人的陨落",
+    "rating": "8.9",
+    "sentense": "五个家族，一场战争"
+  },
+  {
+    "title": "我不喜欢这世界，我只喜欢你",
+    "rating": "8.0",
+    "sentense": "一想到能和你共度余生，我就对余生充满期待"
+  },
+  {
+    "title": "鬼吹灯之精绝古城",
+    "rating": "8.1",
+    "sentense": "盗墓祖师名不虚传"
+  },
+  {
+    "title": "阿Q正传",
+    "rating": "8.7",
+    "sentense": "哀其不幸，怒其不争"
+  },
+  {
+    "title": "半生缘",
+    "rating": "8.6",
+    "sentense": "世钧，我们回不去了"
+  },
+  {
+    "title": "这些都是你给我的爱",
+    "rating": "8.4",
+    "sentense": "只言片语的温暖"
+  },
+  {
+    "title": "华胥引（全二册）",
+    "rating": "8.4",
+    "sentense": "现实不如梦中的圆满"
+  },
+  {
+    "title": "陪安东尼度过漫长岁月",
+    "rating": "8.3",
+    "sentense": "真正的片段式写作"
+  },
+  {
+    "title": "这些人，那些事",
+    "rating": "8.8",
+    "sentense": "平淡叙述下的惊心动魄"
+  },
+  {
+    "title": "喜宝",
+    "rating": "8.0",
+    "sentense": "爱情才是终极的奢侈品"
+  },
+  {
+    "title": "梦里花落知多少",
+    "rating": "8.8",
+    "sentense": "哀而不伤"
+  },
+  {
+    "title": "射雕英雄传（全四册）",
+    "rating": "8.9",
+    "sentense": "侠之大者，为国为民"
+  },
+  {
+    "title": "一只特立独行的猪",
+    "rating": "8.8",
+    "sentense": "生活就是个缓慢受锤的过程，至少还可以特立独行"
+  },
+  {
+    "title": "一个人的朝圣",
+    "rating": "8.1",
+    "sentense": "关于爱和信念的旅行"
+  },
+  {
+    "title": "朝花夕拾",
+    "rating": "8.7",
+    "sentense": "鲁迅的旧事重提"
+  },
+  {
+    "title": "如何阅读一本书",
+    "rating": "8.4",
+    "sentense": "读书的方法论"
+  },
+  {
+    "title": "格林童话全集",
+    "rating": "9.0",
+    "sentense": "许多隐晦"
+  },
+  {
+    "title": "孩子你慢慢来",
+    "rating": "8.8",
+    "sentense": "我们现在怎样做母亲"
+  },
+  {
+    "title": "杀死一只知更鸟",
+    "rating": "9.2",
+    "sentense": "有一种东西不能遵循从众原则，那就是——人的良心"
+  },
+  {
+    "title": "地下铁",
+    "rating": "8.3",
+    "sentense": "黑暗世界中的点滴亮光"
+  },
+  {
+    "title": "海底两万里",
+    "rating": "8.4",
+    "sentense": "你听说过鹦鹉螺号吗？"
+  },
+  {
+    "title": "麦琪的礼物",
+    "rating": "8.6",
+    "sentense": "日常的奇迹"
+  },
+  {
+    "title": "刀锋",
+    "rating": "9.0",
+    "sentense": "一把刀的锋刃不容易越过；因此智者说得救之道是困难的"
+  },
+  {
+    "title": "你今天真好看",
+    "rating": "8.7",
+    "sentense": "呆萌可爱的动物段子手"
+  },
+  {
+    "title": "步步惊心",
+    "rating": "8.1",
+    "sentense": "现世太苦，不如穿越回去从头来过"
+  },
+  {
+    "title": "孤独六讲",
+    "rating": "8.1",
+    "sentense": "作为一种美学的孤独"
+  },
+  {
+    "title": "菊与刀",
+    "rating": "8.2",
+    "sentense": "复杂矛盾的日本民族"
+  },
+  {
+    "title": "月亮忘記了",
+    "rating": "8.6",
+    "sentense": "月明星稀的晚上，看不见的，看见了"
+  },
+  {
+    "title": "此间的少年",
+    "rating": "8.4",
+    "sentense": "象牙塔里的金庸群侠"
+  },
+  {
+    "title": "查令十字街84号",
+    "rating": "8.3",
+    "sentense": "文艺青年的爱情地标"
+  },
+  {
+    "title": "尘埃落定",
+    "rating": "8.4",
+    "sentense": "一个傻子的土司家族传奇"
+  },
+  {
+    "title": "流浪地球",
+    "rating": "8.6",
+    "sentense": "刘慈欣获中国科幻银河奖的中短篇小说集"
+  },
+  {
+    "title": "球状闪电",
+    "rating": "8.7",
+    "sentense": "量子之外，没有真相"
+  },
+  {
+    "title": "那些回不去的年少时光",
+    "rating": "8.4",
+    "sentense": "所有你曾热爱却正在遗忘的人和事"
+  },
+  {
+    "title": "金锁记",
+    "rating": "8.5",
+    "sentense": "曹七巧就像希克厉，一个扭曲的英雄"
+  },
+  {
+    "title": "荆棘鸟",
+    "rating": "8.6",
+    "sentense": "澳洲乱世情"
+  },
+  {
+    "title": "悲惨世界（上中下）",
+    "rating": "8.9",
+    "sentense": "现实主义与浪漫主义的至高杰作"
+  },
+  {
+    "title": "哭泣的骆驼",
+    "rating": "8.9",
+    "sentense": "沙漠中寻常的生与死"
+  },
+  {
+    "title": "富爸爸，穷爸爸",
+    "rating": "8.3",
+    "sentense": "人穷穷观念，人富钱生钱"
+  },
+  {
+    "title": "一個人住第5年",
+    "rating": "8.4",
+    "sentense": "独居生活之乐"
+  },
+  {
+    "title": "雷雨",
+    "rating": "8.6",
+    "sentense": "人的心都靠不住，我并不是说人坏，我就是恨人性太弱，太容易变了"
+  },
+  {
+    "title": "水浒传（全二册）",
+    "rating": "8.6",
+    "sentense": "风风火火闯九州"
+  },
+  {
+    "title": "寻路中国",
+    "rating": "9.0",
+    "sentense": "中国在路上，非虚构写作所能达到的高度"
+  },
+  {
+    "title": "飞鸟集",
+    "rating": "8.9",
+    "sentense": "淡泊，超脱"
+  },
+  {
+    "title": "史蒂夫·乔布斯传",
+    "rating": "8.7",
+    "sentense": "完美主义者的最高形态"
+  },
+  {
+    "title": "常识",
+    "rating": "8.1",
+    "sentense": "献给这个常识稀缺的时代"
+  },
+  {
+    "title": "西游记（全二册）",
+    "rating": "8.8",
+    "sentense": "取经之路就在脚下"
+  },
+  {
+    "title": "鹿鼎记（全五册）",
+    "rating": "8.8",
+    "sentense": "武侠的解构，流氓的狂欢"
+  },
+  {
+    "title": "海贼王",
+    "rating": "9.5",
+    "sentense": "热血，梦想，希望"
+  },
+  {
+    "title": "倚天屠龙记(共四册)",
+    "rating": "8.6",
+    "sentense": "不识张郎是张郎"
+  },
+  {
+    "title": "狂人日记",
+    "rating": "8.7",
+    "sentense": "中国现代文学史上第一篇真正的现代白话小说"
+  },
+  {
+    "title": "你好，旧时光（上 下）",
+    "rating": "8.8",
+    "sentense": "原作名切题"
+  },
+  {
+    "title": "时间旅行者的妻子",
+    "rating": "8.1",
+    "sentense": "在时间的缝隙中穿行，然后相遇"
+  },
+  {
+    "title": "最好的我们",
+    "rating": "8.8",
+    "sentense": "耿耿余淮"
+  },
+  {
+    "title": "长恨歌",
+    "rating": "8.2",
+    "sentense": "现代上海史诗"
+  },
+  {
+    "title": "东霓",
+    "rating": "8.1",
+    "sentense": "自毁而偏执的东霓"
+  },
+  {
+    "title": "瓦尔登湖",
+    "rating": "8.4",
+    "sentense": "另一种生活"
+  },
+  {
+    "title": "我与地坛",
+    "rating": "9.0",
+    "sentense": "这是你的罪孽与福祉"
+  },
+  {
+    "title": "时间简史",
+    "rating": "8.8",
+    "sentense": "霍金与上帝的战争"
+  },
+  {
+    "title": "伊豆的舞女",
+    "rating": "8.2",
+    "sentense": "静美又残酷，无限柔软的川端"
+  },
+  {
+    "title": "你一定爱读的极简欧洲史",
+    "rating": "8.2",
+    "sentense": "欧洲，为什么老是抢第一？"
+  },
+  {
+    "title": "失恋33天",
+    "rating": "8.1",
+    "sentense": "失恋是一种病，痊愈之后百毒不侵"
+  },
+  {
+    "title": "呼兰河传",
+    "rating": "8.9",
+    "sentense": "萧红的童年往事"
+  },
+  {
+    "title": "红与黑",
+    "rating": "8.2",
+    "sentense": "阴谋与爱情"
+  },
+  {
+    "title": "历史深处的忧虑",
+    "rating": "9.0",
+    "sentense": "窥见美国社会的一扇窗"
+  },
+  {
+    "title": "中国历代政治得失",
+    "rating": "9.2",
+    "sentense": "一部简明的“中国政治制度史”"
+  },
+  {
+    "title": "夏洛的网",
+    "rating": "8.6",
+    "sentense": "猪与蜘蛛"
+  },
+  {
+    "title": "我的天才女友",
+    "rating": "8.5",
+    "sentense": "两个女人，50年的友谊和战争"
+  },
+  {
+    "title": "陆犯焉识",
+    "rating": "8.8",
+    "sentense": "翻手为苍凉，覆手为繁华"
+  },
+  {
+    "title": "一九八四·动物农场",
+    "rating": "9.3",
+    "sentense": "一个预言和一个寓言，令人窒息的政治恐怖"
+  },
+  {
+    "title": "大地之灯",
+    "rating": "8.2",
+    "sentense": "两代人的成长与救赎"
+  },
+  {
+    "title": "影响力",
+    "rating": "8.6",
+    "sentense": "营销防骗指南"
+  },
+  {
+    "title": "人生",
+    "rating": "8.4",
+    "sentense": "如果你是高加林，你要如何选择？"
+  },
+  {
+    "title": "匆匆那年（上下）",
+    "rating": "8.3",
+    "sentense": "不悔梦归处 只恨太匆匆"
+  },
+  {
+    "title": "橙",
+    "rating": "8.2",
+    "sentense": "定做一个刻着“不过如此”的章，盖在封面上"
+  },
+  {
+    "title": "自控力",
+    "rating": "8.3",
+    "sentense": "要么瘦，要么死"
+  },
+  {
+    "title": "香水",
+    "rating": "8.5",
+    "sentense": "恋味癖谋杀案"
+  },
+  {
+    "title": "世界尽头与冷酷仙境",
+    "rating": "8.6",
+    "sentense": "交叉平行蒙太奇"
+  },
+  {
+    "title": "冰与火之歌（卷一）",
+    "rating": "9.3",
+    "sentense": "凛冬将至。无比宏大的世界观"
+  },
+  {
+    "title": "那些年，我们一起追的女孩",
+    "rating": "8.2",
+    "sentense": "那些年错过的大雨"
+  },
+  {
+    "title": "看不见的城市",
+    "rating": "8.8",
+    "sentense": "每一座城市都只在想象中耸立，又在描述中坍圮"
+  },
+  {
+    "title": "变形记",
+    "rating": "8.4",
+    "sentense": "格里高里清早醒来发现自己变成了甲虫"
+  },
+  {
+    "title": "江城",
+    "rating": "9.0",
+    "sentense": "外国人的寻路中国"
+  },
+  {
+    "title": "把时间当作朋友",
+    "rating": "8.4",
+    "sentense": "反成功学的成功学"
+  },
+  {
+    "title": "阿狸·梦之城堡",
+    "rating": "9.0",
+    "sentense": "治愈"
+  },
+  {
+    "title": "天使与魔鬼",
+    "rating": "8.2",
+    "sentense": "科学与宗教的大乱斗"
+  },
+  {
+    "title": "人性的弱点全集",
+    "rating": "8.2",
+    "sentense": "西方世界最持久的人文畅销书"
+  },
+  {
+    "title": "七夜雪",
+    "rating": "8.4",
+    "sentense": "抵不过时间"
+  },
+  {
+    "title": "ZOO",
+    "rating": "8.6",
+    "sentense": "噩梦中的一丝温度"
+  },
+  {
+    "title": "未来简史",
+    "rating": "8.4",
+    "sentense": "人类面临的新议题"
+  },
+  {
+    "title": "往事并不如烟",
+    "rating": "8.6",
+    "sentense": "知识分子的命运浮沉"
+  },
+  {
+    "title": "国境以南 太阳以西",
+    "rating": "8.3",
+    "sentense": "灾星下出生的恋人们"
+  },
+  {
+    "title": "罗生门",
+    "rating": "8.7",
+    "sentense": ""
+  },
+  {
+    "title": "项链",
+    "rating": "8.3",
+    "sentense": ""
+  },
+  {
+    "title": "一句顶一万句",
+    "rating": "8.7",
+    "sentense": "一句胜过千年"
+  },
+  {
+    "title": "父与子全集",
+    "rating": "9.2",
+    "sentense": ""
+  },
+  {
+    "title": "蔷薇岛屿",
+    "rating": "8.0",
+    "sentense": "你们不会彼此遗忘。只会彼此消失"
+  },
+  {
+    "title": "京华烟云",
+    "rating": "8.5",
+    "sentense": "林语堂的《红楼梦》"
+  },
+  {
+    "title": "没有色彩的多崎作和他的巡礼之年",
+    "rating": "8.2",
+    "sentense": "并不是一切都消失在了时间的长河里"
+  },
+  {
+    "title": "文学回忆录（全2册）",
+    "rating": "9.2",
+    "sentense": "木心留给世界的礼物"
+  },
+  {
+    "title": "一千零一夜",
+    "rating": "8.6",
+    "sentense": ""
+  },
+  {
+    "title": "人间词话",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "尼罗河上的惨案",
+    "rating": "8.7",
+    "sentense": "阿婆代表作之一"
+  },
+  {
+    "title": "最初的爱情 最后的仪式",
+    "rating": "8.0",
+    "sentense": "别被封面骗了"
+  },
+  {
+    "title": "生活在别处",
+    "rating": "8.4",
+    "sentense": "此处的生活唯有残酷"
+  },
+  {
+    "title": "新名字的故事",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "面纱",
+    "rating": "8.7",
+    "sentense": ""
+  },
+  {
+    "title": "雨季不再来",
+    "rating": "8.7",
+    "sentense": ""
+  },
+  {
+    "title": "激荡三十年（上）",
+    "rating": "8.8",
+    "sentense": "这是一个最好的时代，也是一个最坏的时代"
+  },
+  {
+    "title": "设计中的设计",
+    "rating": "8.6",
+    "sentense": "日常生活的无限可能性"
+  },
+  {
+    "title": "第一炉香",
+    "rating": "8.4",
+    "sentense": ""
+  },
+  {
+    "title": "心是孤独的猎手",
+    "rating": "8.5",
+    "sentense": "镇上有两个哑巴，他们总是在一起。"
+  },
+  {
+    "title": "我的精神家园",
+    "rating": "9.1",
+    "sentense": "活过，爱过，写过"
+  },
+  {
+    "title": "我执",
+    "rating": "8.0",
+    "sentense": "梁文道的私密日记"
+  },
+  {
+    "title": "佛祖在一号线",
+    "rating": "8.2",
+    "sentense": "嬉笑怒骂的常识分子"
+  },
+  {
+    "title": "妻妾成群",
+    "rating": "8.2",
+    "sentense": ""
+  },
+  {
+    "title": "海子的诗",
+    "rating": "8.9",
+    "sentense": ""
+  },
+  {
+    "title": "芳华",
+    "rating": "8.1",
+    "sentense": ""
+  },
+  {
+    "title": "九州·缥缈录",
+    "rating": "8.8",
+    "sentense": "乱世的英雄史诗"
+  },
+  {
+    "title": "教父",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "娱乐至死",
+    "rating": "8.6",
+    "sentense": ""
+  },
+  {
+    "title": "野火集",
+    "rating": "8.8",
+    "sentense": "中国人你为什么不生气？"
+  },
+  {
+    "title": "偷书贼",
+    "rating": "8.0",
+    "sentense": "不能说偷，是窃，窃你懂吗"
+  },
+  {
+    "title": "万水千山走遍",
+    "rating": "8.8",
+    "sentense": ""
+  },
+  {
+    "title": "哈姆莱特",
+    "rating": "8.5",
+    "sentense": ""
+  },
+  {
+    "title": "斯通纳",
+    "rating": "8.8",
+    "sentense": ""
+  },
+  {
+    "title": "占星术杀人魔法",
+    "rating": "8.3",
+    "sentense": "一桩占星术连续杀人案件"
+  },
+  {
+    "title": "台北人",
+    "rating": "8.9",
+    "sentense": ""
+  },
+  {
+    "title": "舞！舞！舞！",
+    "rating": "8.3",
+    "sentense": "深入村上春树的心灵腹地"
+  },
+  {
+    "title": "雾都孤儿",
+    "rating": "8.1",
+    "sentense": ""
+  },
+  {
+    "title": "浪潮之巅",
+    "rating": "9.1",
+    "sentense": "了解IT领域的入门读物"
+  },
+  {
+    "title": "动物凶猛",
+    "rating": "8.3",
+    "sentense": ""
+  },
+  {
+    "title": "新参者",
+    "rating": "8.4",
+    "sentense": ""
+  },
+  {
+    "title": "子不语1",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "小姨多鹤",
+    "rating": "8.6",
+    "sentense": ""
+  },
+  {
+    "title": "爱的艺术",
+    "rating": "8.8",
+    "sentense": ""
+  },
+  {
+    "title": "高效能人士的七个习惯（精华版）",
+    "rating": "8.2",
+    "sentense": ""
+  },
+  {
+    "title": "夹边沟记事",
+    "rating": "9.2",
+    "sentense": ""
+  },
+  {
+    "title": "罗杰疑案",
+    "rating": "8.9",
+    "sentense": ""
+  },
+  {
+    "title": "琅琊榜",
+    "rating": "8.5",
+    "sentense": ""
+  },
+  {
+    "title": "白银时代",
+    "rating": "8.4",
+    "sentense": ""
+  },
+  {
+    "title": "动物庄园",
+    "rating": "9.1",
+    "sentense": ""
+  },
+  {
+    "title": "一个叫欧维的男人决定去死",
+    "rating": "9.0",
+    "sentense": ""
+  },
+  {
+    "title": "枪炮、病菌与钢铁",
+    "rating": "8.8",
+    "sentense": ""
+  },
+  {
+    "title": "观念的水位",
+    "rating": "8.3",
+    "sentense": ""
+  },
+  {
+    "title": "红拂夜奔",
+    "rating": "8.6",
+    "sentense": ""
+  },
+  {
+    "title": "告白",
+    "rating": "8.6",
+    "sentense": ""
+  },
+  {
+    "title": "巨流河",
+    "rating": "8.7",
+    "sentense": ""
+  },
+  {
+    "title": "中国大历史",
+    "rating": "8.3",
+    "sentense": ""
+  },
+  {
+    "title": "云中歌1",
+    "rating": "8.0",
+    "sentense": ""
+  },
+  {
+    "title": "寻羊冒险记",
+    "rating": "8.1",
+    "sentense": ""
+  },
+  {
+    "title": "来不及说我爱你",
+    "rating": "8.0",
+    "sentense": ""
+  },
+  {
+    "title": "相约星期二",
+    "rating": "8.4",
+    "sentense": ""
+  },
+  {
+    "title": "带一本书去巴黎",
+    "rating": "8.5",
+    "sentense": ""
+  },
+  {
+    "title": "乡土中国",
+    "rating": "9.2",
+    "sentense": ""
+  },
+  {
+    "title": "邓小平时代",
+    "rating": "9.0",
+    "sentense": ""
+  }
+]
