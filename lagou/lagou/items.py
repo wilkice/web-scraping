@@ -8,14 +8,7 @@
 import scrapy
 
 
-class TutorialItem(scrapy.Item):
+class LagouItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
-
-
-class QuoteItem(scrapy.Item):
-    """Item for author"""
-    name = scrapy.Field()
-    born = scrapy.Field()
-    hometown = scrapy.Field()
