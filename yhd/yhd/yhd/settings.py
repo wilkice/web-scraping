@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'yhd.spiders'
 MONGO_URI = 'mongodb+srv://darcy:di@daily-ns3mf.azure.mongodb.net/test?retryWrites=true&w=majority'
 MONGO_DB = "scrape"
 
-MYSQL_HOST = '127.0.0.1'
+MYSQL_HOST = '192.168.1.2'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'di'
 MYSQL_DATABASE = 'test'
