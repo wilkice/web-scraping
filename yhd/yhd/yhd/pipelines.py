@@ -31,7 +31,7 @@ class MongoPipeline(object):
         self.db = self.client[self.mongo_db]
 
     def process_item(self, item, spider):
-        self.db.yhd.insert_one(dict(item))
+        self.db[item.collection].insert_one(dict(item))
         return item
 
     def close_spider(self, spider):
@@ -58,15 +58,15 @@ class MysqlPipeline(object):
 
     def open_spider(self, spider):
         self.db = pymysql.connect(
-            self.host, self.user, self.password, self.database, port=self.port)
+            self.host, self.user, self.password, self.database, port=self.port, charset='utf8')
         self.cursor = self.db.cursor()
 
     def process_item(self, item, spider):
         name = item['name']
         price = item['price']
         info = item['info']
-        sql = "insert into yhd values ('{}', {}, '{}')".format(
-            name, price, info)      
+        sql = "insert into {} values ('{}', {}, '{}')".format(
+            item.table, name, price, info)
         try:
             self.cursor.execute(sql)
             self.db.commit()

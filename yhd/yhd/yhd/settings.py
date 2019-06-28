@@ -14,12 +14,17 @@ BOT_NAME = 'yhd'
 SPIDER_MODULES = ['yhd.spiders']
 NEWSPIDER_MODULE = 'yhd.spiders'
 
-MONGO_URI = 'mongodb+srv://darcy:di@daily-ns3mf.azure.mongodb.net/test?retryWrites=true&w=majority'
-MONGO_DB = "scrape"
+SCHEDULER = 'scrapy_redis.scheduler.Scheduler'
+DUPEFILTER_CLASS = 'scrapy_redis.dupefilter.RFPDupeFilter'
+REDIS_URL = 'redis://localhost:6379'
+SCHEDULER_PERSIST = False
+  
+MONGO_URI = 'localhost'
+MONGO_DB = "test"
 
-MYSQL_HOST = '192.168.1.2'
+MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'di'
+MYSQL_PASSWORD = #TODO: password
 MYSQL_DATABASE = 'test'
 MYSQL_PORT = 3306
 
