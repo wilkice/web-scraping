@@ -10,7 +10,6 @@ import scrapy
 
 class YhdItem(scrapy.Item):
     # define the fields for your item here like:
-    table = collection = 'products'
     name = scrapy.Field()
     price = scrapy.Field()
     info = scrapy.Field()

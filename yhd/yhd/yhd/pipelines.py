@@ -15,15 +15,17 @@ class YhdPipeline(object):
 
 class MongoPipeline(object):
 
-    def __init__(self, mongo_uri, mongo_db):
+    def __init__(self, mongo_uri, mongo_db, mongo_collection):
         self.mongo_uri = mongo_uri
         self.mongo_db = mongo_db
+        self.mongo_collection = mongo_collection
 
     @classmethod
     def from_crawler(cls, crawler):
         return cls(
             mongo_uri=crawler.settings.get('MONGO_URI'),
-            mongo_db=crawler.settings.get('MONGO_DB')
+            mongo_db=crawler.settings.get('MONGO_DB'),
+            mongo_collection=crawler.settings.get('MONGO_COLLECTION'),
         )
 
     def open_spider(self, spider):
@@ -31,7 +33,7 @@ class MongoPipeline(object):
         self.db = self.client[self.mongo_db]
 
     def process_item(self, item, spider):
-        self.db[item.collection].insert_one(dict(item))
+        self.db[self.mongo_collection].insert_one(dict(item))
         return item
 
     def close_spider(self, spider):
@@ -39,11 +41,12 @@ class MongoPipeline(object):
 
 
 class MysqlPipeline(object):
-    def __init__(self, host, user, password, database, port):
+    def __init__(self, host, user, password, database, table, port):
         self.host = host
         self.user = user
         self.password = password
         self.database = database
+        self.table = table
         self.port = port
 
     @classmethod
@@ -53,6 +56,7 @@ class MysqlPipeline(object):
             user=crawler.settings.get('MYSQL_USER'),
             password=crawler.settings.get('MYSQL_PASSWORD'),
             database=crawler.settings.get('MYSQL_DATABASE'),
+            table=crawler.settings.get('MYSQL_TABLE'),
             port=crawler.settings.get('MYSQL_PORT'),
         )
 
@@ -66,7 +70,7 @@ class MysqlPipeline(object):
         price = item['price']
         info = item['info']
         sql = "insert into {} values ('{}', {}, '{}')".format(
-            item.table, name, price, info)
+            self.table, name, price, info)
         try:
             self.cursor.execute(sql)
             self.db.commit()

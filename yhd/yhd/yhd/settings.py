@@ -21,11 +21,13 @@ SCHEDULER_PERSIST = False
   
 MONGO_URI = 'localhost'
 MONGO_DB = "test"
+MONGO_COLLECTION = 'yhd'
 
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = #TODO: password
 MYSQL_DATABASE = 'test'
+MYSQL_TABLE = 'yhd'
 MYSQL_PORT = 3306
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
